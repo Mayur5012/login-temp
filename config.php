@@ -15,8 +15,4 @@ if($conn ==false)
 {
     dir('Error : Cannot connect'); 
 }
-
-
-
-
 ?>
